@@ -11,7 +11,7 @@ Fresh Computer Science Graduate from [FAST National University](https://www.nu.e
 I'm currently:
 ```yaml
 - Working with LangGraph to build Agentic AI Applications
-- Developing an AI Research Assistant Agent.
+- Developing an AI Research Assistant Agent
 - Reading "Life 3.0" by Max Tegmark
 ```
 
