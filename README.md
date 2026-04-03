@@ -1,6 +1,5 @@
 
-[<img src="https://github.com/user-attachments/assets/47c1df00-5368-40fe-bc03-b693e6ba1c62" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)  
-
+![Haider Khan](images/HK-Cover.png)
 
 # 💫 About Me
 Fresh Computer Science Graduate from [FAST National University](https://www.nu.edu.pk)<br>Building innovative AI applications
