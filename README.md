@@ -1,5 +1,5 @@
 
-[![Haider Khan](images/HK-Cover.png)](https://www.vurtune.com)
+[![Haider Khan](assets/HK-Cover.png)](https://www.vurtune.com)
 
 # 💫 About Me
 Fresh Computer Science Graduate from [FAST National University](https://www.nu.edu.pk)<br>Building innovative AI applications
