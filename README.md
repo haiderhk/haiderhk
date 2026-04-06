@@ -1,31 +1,35 @@
 
 [![Haider Khan](assets/HK-Cover.png)](https://www.vurtune.com)
 
-# 💫 About Me
-Fresh Computer Science Graduate from [FAST National University](https://www.nu.edu.pk)<br>Building innovative AI applications
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
+- 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛
+- 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚍𝚊𝚝𝚊 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜
+- 𝙳𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎 𝚌𝚕𝚘𝚞𝚍-𝚋𝚊𝚜𝚎𝚍 𝚍𝚊𝚝𝚊 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎
 
-# 🌱 What I'm up to
+## ⬆ What I'm up to
 
 I'm currently:
 ```yaml
-- Working with LangGraph to build Agentic AI Applications
-- Developing an AI Research Assistant Agent
-- Reading "Life 3.0" by Max Tegmark
+- Designing ingestion → transformation pipelines in Microsoft Fabric
+- Designing and implementing data warehousing architectures and reporting models
+- Building and managing cloud infrastructure as code
 ```
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+## 📫 How to Reach Me:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/haider-khan-hk/">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40" style="vertical-align:middle;" />
+  </a>
+  <a href="https://twitter.com/vurtuneHk">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" style="vertical-align:middle;" />
+  </a>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-khan-hk/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VurTuneIX) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@VurTuneIX) 
-
-
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=haiderhk&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderhk&theme=codeSTACKr&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderhk&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
